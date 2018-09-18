@@ -1,0 +1,1 @@
+Please create a new branch when making major changes, and SUBMIT A PULL REQUEST WHEN THE CHANGES ARE COMPLETE SO THEY ARE INTEGRATED PROPERLY INTO OTHER UPDATES. Thank you! Also, do not edit other people's work without their permission, and don't make significant changes without discussing them first.
